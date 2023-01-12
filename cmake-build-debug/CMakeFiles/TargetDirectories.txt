@@ -1,0 +1,3 @@
+C:/Users/George/CLionProjects/BacktrackingHarto/cmake-build-debug/CMakeFiles/BacktrackingHarto.dir
+C:/Users/George/CLionProjects/BacktrackingHarto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/George/CLionProjects/BacktrackingHarto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
